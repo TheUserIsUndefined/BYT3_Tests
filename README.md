@@ -1,10 +1,10 @@
-Execute tests guideline.
+Execute Tests Guideline
 =====
 
 **From terminal:**
 1. Open a terminal.
 2. Go to solution folder.
-3. Run ```bash dotnet test```
+3. Run ```dotnet test```
 4. Wait for the results.
 
 
